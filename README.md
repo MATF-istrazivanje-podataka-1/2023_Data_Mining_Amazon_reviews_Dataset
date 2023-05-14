@@ -14,6 +14,9 @@ To run: `jupyter notebook`
 
 To install: `pip install pandas`
 
+### sklearn
+
+To install: `pip install scikit-learn`
 
 ## Izvor podataka
 
