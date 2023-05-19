@@ -2,18 +2,30 @@
 
 Autor: Nikola Veselinović, 200/2015
 
+## Sadržaj
+
+
+1. [Instalacija korišćenih biblioteka](#instalacija-korišćenih-biblioteka)  
+    1. [Jupyter Notebook](#jupyter-notebook)
+    2. [Pandas](#pandas)
+    3. [Sklearn](#sklearn)
+2. [Izvor podataka](#izvor-podataka)  
+
 ## Instalacija korišćenih biblioteka
 
 ### Jupyter Notebook
 
-To install: `pip install notebook`
+Za instalaciju: `pip install notebook`
 
-To run: `jupyter notebook`
+Da bi pokrenuli: `jupyter notebook`
 
 ### Pandas
 
-To install: `pip install pandas`
+Za instalaciju: `pip install pandas`
 
+### Sklearn
+
+Za instalaciju: `pip install scikit-learn`
 
 ## Izvor podataka
 
