@@ -66,3 +66,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.joblib
